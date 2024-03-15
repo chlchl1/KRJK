@@ -7,7 +7,7 @@ jd_drawCenter_addCart // 是否做加购任务，默认不做
 JD_LZ_OPEN //关闭LZ相关活动运行
 jd_drawCenter_blacklist // 黑名单 用&隔开 pin值
 
-默认助力第一个号
+默认助力第一个
 
 */
 
